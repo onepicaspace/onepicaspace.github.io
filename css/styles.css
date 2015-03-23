@@ -1,0 +1,105 @@
+body{
+	margin: 0;
+	font-size: 90%;/*  Base font size is 14px, so this is 87.4% of 14px*/
+    line-height: 1.5em;
+	font-family: source-sans-pro, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: 	#524545;
+	text-align: center;
+	background:  url(../images/background.jpg);
+	}
+
+header{
+
+	background: #;
+	text-align: center;
+	
+	background-attachment: fixed;
+	background-size: : cover;
+}
+
+
+h1, h2 { font-family: 'Arvo', serif;
+
+	color:ffffff;
+}
+
+ul{
+	list-style-type: none;
+
+}
+
+	a{
+
+		color:#249e87;
+	}
+
+	#about{
+
+background: #;
+
+	}
+
+	img{
+
+		border: solid 1px #249e87;
+	}
+
+	.hobbies{
+
+
+	}
+
+	.padded{
+
+		padding: 20px;
+	}
+
+	.contact{
+
+
+		background: url(../dark_emboroidery.png);
+
+	}
+
+.contact h2{ 
+	color:;
+
+}
+
+.contact img { 
+	border:none;
+	width:100px;
+	height:auto;
+	margin: 10px;
+border-radius: 50%;
+-moz-border-radius: 50%;
+
+
+}
+
+.contact img:hover {
+
+	opacity: .8;
+	border-radius: 40%;
+}
+
+
+.websites{
+
+	padding: 0;
+}
+
+.websites li{
+
+	list-style-type:none;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+
+.websites a{
+
+
+}
+
+
+.websites a:hover;{}
